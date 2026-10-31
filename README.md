@@ -1,3 +1,5 @@
+![Python checks](https://github.com/leakquicked/-password-audit-kit/actions/workflows/python-checks.yml/badge.svg)
+
 # Password Audit Kit
 
 A local-only educational password review helper. It uses simple heuristics and does not store, log or transmit the password.
